@@ -28,28 +28,6 @@ GitHub
 
 pyttsx3: For text-to-speech functionality.​
 
-Installation
-Clone the Repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/dictionary-app.git
-cd dictionary-app
-Install Required Packages:
-
-bash
-Copy
-Edit
-pip install PyDictionary pyttsx3
-Usage
-Run the Application:
-
-bash
-Copy
-Edit
-python dictionary_app.py
-Using the Application:
 
 Search for a Word: Enter a word in the search bar and click "Search" to view its definition, synonyms, and antonyms.​
 
@@ -63,37 +41,7 @@ Save to Favorites: Click "Save to Favorites" to add the word to your list of fav
 
 Show Favorites: Click "Show Favorite Words" to view your saved words.​
 
-Contributing
-Contributions are welcome! To contribute:​
-Histb Git
-+4
-GitHub
-+4
-GitHub
-+4
-GitHub
 
-Fork the repository.​
-
-Create a new branch (git checkout -b feature-name).​
-
-Make your changes.​
-
-Commit your changes (git commit -am 'Add new feature').​
-
-Push to the branch (git push origin feature-name).​
-
-Create a new Pull Request.​
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.​
-
-Acknowledgments
-PyDictionary for providing word meanings, synonyms, and antonyms.​
-
-pyttsx3 for text-to-speech functionality.​
-
-Tkinter for GUI development.​
 
 Feel free to explore, use, and contribute to this project!​
 
